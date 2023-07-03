@@ -1,0 +1,2 @@
+print("Operações:\nPara realizar uma operação de soma se utiliza o sinal +\nPara realizar uma operação de subtração se utiliza o sinal -\nPara realizar uma operação de multiplicação se utiliza o sinal *\nPara realizar uma operação de divisão se usa o sinal /\nPara realizar uma operação de de potenciação se usa o sinal de multiplicação duas vezes, ou seja, **\n\tObs.:\nPython prioriza os sinais obedecendo às regras matemáticas convencionais, se quiser mudar isso pode utilizar os () ")
+print("\tParabéns, pelo menos dos sinais tu tá manjando!")
