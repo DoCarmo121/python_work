@@ -1,2 +1,6 @@
-# python_work
- I'm learning python through a   very well-known book called "Python Crash Course". This repository is about some concepts that i' ve been learning... Sorry for the english, it's not my mother language.
+- 👋 Wassup, developers! I'm known as Do Carmo;
+- 👀 I’m 17 and starting in this new world of programming;
+- 🐍 I’m currently learning python and a little about git and github;
+- 🚀 Hope someday be making money on this;
+- 🙏 If you can help me in someway, I'will be thankful;
+- My 🏠 is 🇧🇷
